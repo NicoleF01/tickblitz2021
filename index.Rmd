@@ -1,6 +1,6 @@
 ---
 title: "Tick Blitz 2021"
-author: "Nicole Foley <br> Master's Student in Vector-Borne Disease Biology <br> Cornell University"
+author: "**Nicole Foley** <br> Master's Student in Vector-Borne Disease Biology <br> Cornell University"
 output: html_document
 ---
 
@@ -8,4 +8,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+![](TICK BLITZ 2021 LOGO.png){width=250px}

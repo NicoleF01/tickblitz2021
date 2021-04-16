@@ -1,0 +1,13 @@
+name: "tickblitz2021"
+navbar:
+  title: "Tick Blitz 2021"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "What is a Tick Blitz?"
+      href: about.html
+    - text: "Sampling Locations"
+      href: locations.html
+    - text: "Collection Results"
+      href: results.html
+output_dir: "."
