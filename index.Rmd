@@ -1,0 +1,11 @@
+---
+title: "Tick Blitz 2021"
+author: "Nicole Foley <br> Master's Student in Vector-Borne Disease Biology <br> Cornell University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
